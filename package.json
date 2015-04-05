@@ -1,0 +1,29 @@
+{
+  "name": "asm-tag",
+  "version": "1.0.0",
+  "description": "compile x64 assembly into a callable function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/asm-tag.git"
+  },
+  "keywords": [
+    "asm-tag",
+    "interpoliteral",
+    "asm",
+    "nasm"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdickinson/asm-tag/issues"
+  },
+  "homepage": "https://github.com/chrisdickinson/asm-tag",
+  "dependencies": {
+    "jit.js": "^1.0.0",
+    "pasm": "0.0.1"
+  }
+}
