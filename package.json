@@ -2,7 +2,7 @@
   "name": "asm-tag",
   "version": "1.0.0",
   "description": "compile x64 assembly into a callable function",
-  "main": "index.js",
+  "main": "lib/asm-tag.js",
   "scripts": {
     "test": "node test.js"
   },
